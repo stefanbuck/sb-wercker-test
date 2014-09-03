@@ -7,6 +7,4 @@ build:
     - npm-install
     - hgen/gulp:
         tasks: bump
-    - npm-version
-        type: patch
-        message: automatic version bump by wercker.
+    - kwakayama/npm-publish@0.0.2
