@@ -6,8 +6,6 @@
 
 Copyright (c) 2014 Stefan Buck. Licensed under the MIT license.
 
-
-
 [npm-url]: https://npmjs.org/package/sb-wercker-test
 [npm-image]: https://badge.fury.io/js/sb-wercker-test.svg
 [travis-url]: https://travis-ci.org/stefanbuck/sb-wercker-test
