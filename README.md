@@ -1,36 +1,6 @@
 # sb-wercker-test 
 [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-url]][daviddm-image] [![Coverage Status][coveralls-image]][coveralls-url]
 
-The best module ever.
-
-
-## Install
-
-```bash
-$ npm install --save sb-wercker-test
-```
-
-
-## Usage
-
-```javascript
-var sbWerckerTest = require('sb-wercker-test');
-sbWerckerTest(); // "awesome"
-```
-
-## API
-
-_(Coming soon)_
-
-
-## Contributing
-
-In lieu of a formal styleguide, take care to maintain the existing coding style. Add unit tests for any new or changed functionality. Lint and test your code using [gulp](http://gulpjs.com/).
-
-
-## Release History
-
-_(Nothing yet)_
 
 
 ## License
