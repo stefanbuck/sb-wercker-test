@@ -8,6 +8,6 @@ build:
     - hgen/gulp:
         tasks: bump
     - kwakayama/npm-publish@0.0.2
-    - git-push:
+    - leipert/git-push:
          gh_token: $GIT_TOKEN
          basedir: build
