@@ -1,7 +1,7 @@
 {
   "name": "sb-wercker-test",
   "description": "The best module ever.",
-  "version": "0.0.10",
+  "version": "0.0.11",
   "homepage": "https://github.com/stefanbuck/sb-wercker-test",
   "bugs": "https://github.com/stefanbuck/sb-wercker-test/issues",
   "license": "MIT",
