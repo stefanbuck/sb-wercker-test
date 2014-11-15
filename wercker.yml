@@ -16,3 +16,8 @@ build:
     #- leipert/git-push:
     #     gh_token: $GIT_TOKEN
     #     basedir: build
+deploy:
+  steps:
+    - github-create-deployment:
+        token: $GITHUB_TOKEN
+        environment: demo
