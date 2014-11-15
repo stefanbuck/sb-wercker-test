@@ -6,7 +6,7 @@ build:
     - script:
         name: echo python information
         code:
-          echo "exit now"
+          echo "exit now!!!"
           exit
           
     # A step that executes `npm install` command
