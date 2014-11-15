@@ -6,14 +6,13 @@ build:
     - script:
         name: echo python information
         code:
-          echo "exit now!"
-          exit
+          echo "git status"
           
     # A step that executes `npm install` command
     - npm-install
     - hgen/gulp:
         tasks: bump
-    - kwakayama/npm-publish@0.0.2
-    - leipert/git-push:
-         gh_token: $GIT_TOKEN
-         basedir: build
+    #- kwakayama/npm-publish@0.0.2
+    #- leipert/git-push:
+    #     gh_token: $GIT_TOKEN
+    #     basedir: build
